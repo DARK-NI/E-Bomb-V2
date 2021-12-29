@@ -3,7 +3,7 @@
 * version:2
 * Created by Md Nazmul Islam
 * Don't Try to decompile or edit this tool.
-* This tool is only for friend's prank.Don't use this tool for unethical work.I won' responsible for any misuse.use it at your own risk
+* This tool is only for friend's prank.Don't use this tool for unethical work.I won't responsible for any misuse.use it at your own risk
 
 
 # Installation Command:
@@ -16,9 +16,12 @@
 * pip install smtplib
 * cd E-Bomb-V2
 * python mail.py
+
 * Tool's Username:ebomb
 * Tool's Password:darkni
 
 
+<img src="Screenshot_20211229-163807.png" width="140" height="300"></img>
+
 * Join Our Facebook Group:https://facebook.com/groups/spamming.termux.learning.point/
-# Tnx all ❣️❣️.
+# Tnx all❣️❣️
